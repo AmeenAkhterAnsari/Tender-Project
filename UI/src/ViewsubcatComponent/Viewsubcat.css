@@ -1,0 +1,20 @@
+#subcat_main
+{
+    height: auto;
+    width: 600px;
+}
+
+.subcat_part
+{
+    height: 150px;
+    width: 200px;
+    float: left;
+    text-transform: capitalize;
+    
+}
+
+.subcat_part img
+{   
+    border: 2px solid black;
+    width: 190px;
+}

@@ -1,0 +1,13 @@
+#container
+{
+  height: 800px;
+  text-align: center;
+}
+
+#content
+{
+  height: 55%;
+  width:100%;
+}
+
+
